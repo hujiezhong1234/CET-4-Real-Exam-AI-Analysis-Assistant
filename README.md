@@ -16,6 +16,12 @@
 - 正则表达式（结构化解析）
 - 大语言模型 API（OpenAI兼容格式）
 
+## 更新日志
+
+**最新版本 [v1.1.0]** - 新增 Writing/Listening/Translation 分析，重构 PDF 解析引擎
+
+查看完整更新日志 👉 [CHANGELOG.md](./CHANGELOG.md)
+
 ## 运行
 
 ```bash
